@@ -5,7 +5,7 @@
 #### Stats
 ![PwzXxm's github stats](https://github-readme-stats.vercel.app/api?username=PwzXxm&show_icons=true&hide_rank=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PwzXxm&hide=html,css&layout=compact)](https://github.com/PwzXxm)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PwzXxm&hide=html,css&layout=compact)](https://github.com/PwzXxm) -->
 
 <!--
 **PwzXxm/PwzXxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
