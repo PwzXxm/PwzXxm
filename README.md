@@ -1,8 +1,11 @@
 ### PwzXxm
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+![status](https://img.shields.io/badge/status-up-brightgreen)
+
 
 <!--
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+
 #### Stats
 ![PwzXxm's github stats](https://github-readme-stats.vercel.app/api?username=PwzXxm&show_icons=true&hide_rank=true)
 -->
